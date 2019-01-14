@@ -56,6 +56,8 @@
     <Folder Include="DarkNetAPI\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\templates\app\ImageView.html" />
+    <Content Include="app\templates\app\model_form_upload.html" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />
